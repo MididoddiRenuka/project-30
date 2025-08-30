@@ -1,4 +1,4 @@
-# Frontend-Programming
+# Introduction to Github 
 
 Git information
 
