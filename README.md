@@ -8,7 +8,7 @@ User Authentication:
 git config –global user.email “youremail@”
 git config –global user.name “yourname”
 ```
-
+Repository URL https://github.com/MididoddiRenuka/project-30.git
 For creating a new repository
 
 ```
@@ -17,14 +17,14 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/shiva-palakurthy/Frontend-Programming.git
+git remote add origin https://github.com/MididoddiRenuka/project-30.git
 git push -u origin main
 ```
 
 To push an existing repository
 
 ```
-git remote add origin https://github.com/shiva-palakurthy/Frontend-Programming.git
+git remote add origin https://github.com/MididoddiRenuka/project-30.git
 git branch -M main
 git push -u origin main
 ```
