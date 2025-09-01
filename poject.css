@@ -2,11 +2,30 @@ p{
    color: blue;
 }
 li{
-   color: aqua;
+   color: rgb(190, 204, 65);
 }
-h1{
+h1,h2{
    color: blue;
+   text-align: center;
 }
 li.my_python{
    color: chartreuse;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#my_developer{
+   color: chocolate;
+}
+li{
+   font-style: italic ;
+   font-size:large;
+}
+li.header{
+   font-size: x-large;
+   font-style: unset;
+   font-weight: 200;
+   color:rgb(170, 180, 233);
+   text-align: left;
+}
+#Testors{
+   color: darkgreen;
 }
