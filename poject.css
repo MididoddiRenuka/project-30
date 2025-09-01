@@ -65,3 +65,7 @@ img.My_heropic2{
 .ui-nav{
    float:right;
 }
+ion-icon{
+   height: 225px;
+   width: 225px;
+}
