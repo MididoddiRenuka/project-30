@@ -26,6 +26,8 @@ To push an existing repository
 ```
 git remote add origin https://github.com/MididoddiRenuka/project-30.git
 git branch -M main
+
+https://ionic.io/ionicons for logo
 git push -u origin main
 ```
 
