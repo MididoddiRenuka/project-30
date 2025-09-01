@@ -50,3 +50,15 @@ li.My_Page{
    font-weight: 200;
    color: greenyellow;
 }
+img.My_hero{
+   width: 225px;
+   height:225px;
+   clear: right;
+}
+img.My_heropic3{
+display: block;
+margin: auto;
+}
+img.My_heropic2{
+   float: right;
+}
